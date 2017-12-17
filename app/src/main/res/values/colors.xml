@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#eedd82</color>
+    <color name="uyeButtonColor">#Ffcc00</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorPrimary">#715480</color>
+    <color name="colorPrimaryDark">#f58a66</color>
+    <color name="colorAccent">#605d5e</color>
+    <color name="toolBar">#f07b55</color>
+    <color name="colorPrimaryDark1">#f5a95e</color>
+    <color name="colorPrimaryy">#07717f</color>
+    <color name="colorPrimaryDarkk">#0097a7</color>
+    <color name="colorAccentt">#f2fe71</color>
+
+</resources>
